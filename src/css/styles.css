@@ -1,3 +1,13 @@
 h1{
   text-align: center;
 }
+
+form{
+  display: inline-flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+button{
+  margin-top: 20px;
+}
