@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "phone-validation",
   "version": "1.0.0",
-  "description": "project description",
+  "description": "validate a phone number",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",
